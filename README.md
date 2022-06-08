@@ -1,5 +1,5 @@
 # LAB - Class 04
-## Project: pythonic-garage-band
+## Project: Garage Band with OOP
 ### Author: Omar Al Ghonimat
 
 ### Links and Resources
