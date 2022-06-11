@@ -4,8 +4,7 @@
 
 ### Links and Resources
 
-https://github.com/OmarGhonimat97/pythonic_garage_band/pull/1
-
+https://github.com/OmarGhonimat97/pythonic_garage_band/pull/2
 ### Setup
 
 #### How to initialize/run your application (where applicable)
