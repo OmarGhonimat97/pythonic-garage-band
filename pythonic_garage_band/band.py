@@ -33,15 +33,19 @@ class Musician:
       self.name = ''
       self.instrument = ''
 
+  @abstractmethod
   def __repr__(self):
     pass
 
+  @abstractmethod
   def __str__(self):
     pass
 
+  @abstractmethod
   def play_solo(self):
     pass
 
+  @abstractmethod
   def get_instrument(self):
     pass
 
